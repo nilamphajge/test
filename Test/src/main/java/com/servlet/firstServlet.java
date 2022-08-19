@@ -35,6 +35,8 @@ public class firstServlet implements Servlet {
 		// TODO Auto-generated method stub
 		System.out.println("servcing....");
 		System.out.println("ok");
+		System.out.println("ok");
+		
 	}
 
 	
