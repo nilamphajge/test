@@ -36,6 +36,7 @@ public class firstServlet implements Servlet {
 		System.out.println("servcing....");
 		System.out.println("ok");
 		System.out.println("ok");
+		System.out.println("ok");
 		
 	}
 
